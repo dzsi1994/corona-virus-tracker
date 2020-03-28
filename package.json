@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "next",
     "build": "next build && npm run export",
+    "export": "next export",
     "start": "next start"
   },
   "author": "",
