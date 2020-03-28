@@ -22,7 +22,7 @@ export default function IndexPage() {
   return (
     <div>
       <GlobalStyle />
-      <h2>All globe</h2>
+      <h2>All the globe</h2>
       <Stats url="https://covid19.mathdro.id/api"></Stats>
       <CountrySelector></CountrySelector>
     </div>
